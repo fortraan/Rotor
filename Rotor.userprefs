@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rotor/RotorEngine.cs">
+    <Files>
+      <File FileName="Rotor/Input.cs" Line="1" Column="1" />
+      <File FileName="Rotor/GameObject.cs" Line="1" Column="1" />
+      <File FileName="Rotor/RotorEngine.cs" Line="308" Column="22" />
+      <File FileName="Rotor/Stage.cs" Line="1" Column="1" />
+      <File FileName="Rotor/Layout.cs" Line="1" Column="1" />
+      <File FileName="RotorTests/Program.cs" Line="1" Column="1" />
+      <File FileName="RotorTests/Stages/InputTestsStage.cs" Line="1" Column="1" />
+      <File FileName="RotorTests/Controllers/InputTestsController.cs" Line="1" Column="1" />
+      <File FileName="Rotor/Controller.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="fortraan" Email="" Copyright="Christopher Johnson" Company="Smarstar" Trademark="" />
+  <StartupItems>
+    <String>RotorTests/RotorTests.csproj</String>
+  </StartupItems>
+</Properties>

@@ -1,0 +1,8 @@
+/Users/christopher.johnson/Projects/Rotor/RotorTests/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/christopher.johnson/Projects/Rotor/RotorTests/bin/Debug/RotorTests.exe.mdb
+/Users/christopher.johnson/Projects/Rotor/RotorTests/bin/Debug/RotorTests.exe
+/Users/christopher.johnson/Projects/Rotor/RotorTests/obj/x86/Debug/RotorTests.exe
+/Users/christopher.johnson/Projects/Rotor/RotorTests/obj/x86/Debug/RotorTests.exe.mdb
+/Users/christopher.johnson/Projects/Rotor/RotorTests/bin/Debug/Box2DX.dll
+/Users/christopher.johnson/Projects/Rotor/RotorTests/bin/Debug/Rotor.dll
+/Users/christopher.johnson/Projects/Rotor/RotorTests/bin/Debug/Rotor.dll.mdb
