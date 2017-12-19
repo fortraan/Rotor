@@ -1,12 +1,13 @@
 ![alt text](https://raw.githubusercontent.com/fortraan/Rotor/master/images/RotorLogoRendered.png)  
-A 2D game engine written with C#/.NET  
-
 --------
+A 2D game engine written with C#/.NET  
 Rotor is poorly documented, but I plan to work on that.  
+
   
   
+
   
-Eventually,
+Eventually. :[
   
 ## Requirements
 - Gtk#
